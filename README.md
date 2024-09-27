@@ -1,3 +1,3 @@
 # tourism-plan
-<h1>Preview</h1>
+<h4>Preview</h4>
 <img src="preview.png"></img>
